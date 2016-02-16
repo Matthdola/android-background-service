@@ -1,0 +1,13 @@
+# See http://help.github.com/git-ignore-files/ for more about ignoring files
+#
+# If you find yourself ignoring temporary files generared by your text editor
+# or operating system, you probably want to add a global ignore instead
+# git config --global core.excludesfiles '~/.gitignore_global'
+
+# Ignore bin
+Location.Droid/bin/
+
+#Ignore obj folder
+Location.Droid/obj/
+
+packages/
